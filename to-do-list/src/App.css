@@ -1,0 +1,22 @@
+
+.custom-text{
+  font-family:'Roboto Slab', serif;
+  padding-right: 20px;
+}
+
+.custom-show{
+display: flex;
+}
+
+.inputBox{
+  margin: 30px 10px 20px 10px;
+ border-top: 100px;
+ border-color: aquasl(0, 0%, 85%)marine;
+align-items: center;
+padding: 3px;
+border-radius: 5px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: hsl(0, 0%, 46%);
+height: 30px;
+}
+
